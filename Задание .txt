@@ -3,22 +3,14 @@
 using namespace std;
 
 double enterX() {
-double X;
-cout << "Enter a real number: ";
-cin >> X;
-return X;
+return 0;
 }
 
 int enterY() {
-int Y;
-cout << "Enter a natural number: ";
-cin >> Y;
-return Y;
+return 0;
 }
 
 void roundXY(double X, int Y) {
-X = floor(X * pow(10, Y)) / pow(10, Y);
-cout << X;
 }
 
 void interegizeX(double X) {
