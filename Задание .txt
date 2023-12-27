@@ -7,12 +7,14 @@ return 0;
 }
 
 int enterY() {
-return 0;
+int Y;
+cout « "Enter a natural number: ";
+cin » Y;
+return Y;
 }
 
 void roundXY(double X, int Y) {
-X = floor(X * pow(10, Y)) / pow(10, Y);
-cout << X;
+
 }
 
 void interegizeX(double X) {
