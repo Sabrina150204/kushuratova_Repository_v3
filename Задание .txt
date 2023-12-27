@@ -14,7 +14,6 @@ return Y;
 }
 
 void roundXY(double X, int Y) {
-
 }
 
 void interegizeX(double X) {
